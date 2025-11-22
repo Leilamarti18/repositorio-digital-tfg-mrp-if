@@ -1,3 +1,5 @@
+guiones/CODIGO ASISTENTE DE INSUMOS.py
+
 """
 Asistente de insumos basado en una matriz de proximidad (phi).
 
@@ -220,3 +222,4 @@ iface = gr.Interface(
 
 if __name__ == "__main__":
     iface.launch()
+
